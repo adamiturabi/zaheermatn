@@ -1,4 +1,4 @@
-# Zaheermatn Font فونت ظهيرمتن
+# Zaheermatn Font خط ظهير متن
 
 Zaheermatn is an Arabic font project forked from Vazirmatn.
 Here are the main intended differences:
