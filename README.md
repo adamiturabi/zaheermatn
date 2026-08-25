@@ -31,3 +31,10 @@ Also, don't raise first tooth to make it higher than the following ones in initi
 #### Add honorifics
 
 Copy over from Kitab font.
+
+#### Break up/remove U+fdf2 ligature for اللفظ الجلالة
+
+U+fdf2 ligature for اللفظ الجلالة causes problems regarding the initial alif, and also whether the shaddah should have an dagger alif or a fatha. Break it up into alif lam lam heh.
+
+https://github.com/w3c/alreq/issues/125
+
