@@ -3,6 +3,10 @@
 Zaheermatn is an Arabic font project forked from Vazirmatn.
 Here are the main intended differences:
 
+#### Fix inline dagger alif
+
+ In سَمَـٰوَ ٰت.
+
 #### Hamza
 
 * Make standalone hamza ء size smaller to match seated (combined) hamza ؤ أ ئ
