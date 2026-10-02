@@ -5,7 +5,7 @@ Here are the main intended differences:
 
 #### Fix inline dagger alif
 
- In سَمَـٰوَ ٰت.
+ In سَمَـٰوَ ٰت ، ذَ ٰلك
 
 #### Hamza
 
