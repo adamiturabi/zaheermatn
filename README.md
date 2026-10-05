@@ -13,10 +13,15 @@ Use classic لا ligature in initial, standalone, and final positions:
 #### Hamza
 
 * Make standalone hamza ء size smaller to match seated (combined) hamza ؤ أ ئ
+
+![hamza-size](images/hamza-size.jpeg)
+
 * Add support for inline hamza, 
   * Implementation should match Amiri's so that typing ء between two joining letters will not break the joining.
   * Also allow for Hamza combined with tatweel implementation.
   * Pay special attention to hamza between lam-alef ligature.
+
+<https://adamiturabi.github.io/arabic-tutorial-book/content/hamzah_rules.html>
 
 #### Fix inline dagger alif
 
@@ -29,7 +34,7 @@ Use classic لا ligature in initial, standalone, and final positions:
 
 The character ه should follow a basic form in all 4 positions: 
 
-![ههه ه](images/hhhh.png)
+![ههه ه](images/hhhh.jpeg)
 
 * Initial and medial dips below baseline.
 * Final and standalone stays above baseline.
@@ -43,7 +48,7 @@ Use ک for Arabic kaf instead of ك
 The teeth of seen س should be shorter and closer together to distinguish from ب.
 Also, don't raise first tooth to make it higher than the following ones in initial position.
 
-![س](images/seen.png)
+![س](images/seen.jpeg)
 
 
 #### Add honorifics
