@@ -40,7 +40,7 @@ The character ه should follow a basic form in all 4 positions:
 
 ![ههه ه](images/hhhh.jpeg)
 
-* Initial and medial dips below baseline.
+* Initial and medial dips slightly below baseline.
 * Final and standalone stays above baseline.
 
 #### kaf
