@@ -79,9 +79,9 @@ These are pre-composed character glyphs representing complete honorific phrases:
 * U+FD4C (﵌) – Sallallahu Alayhi Wa-Aalihee Wa-Sallam
 * U+FD4E (﵎) – Tabaaraka Wa-Ta'aalaa (Blessed and Lofty)
 
-#### Break up/remove U+fdf2 ligature for اللفظ الجلالة
+#### Break up/remove U+fdf2 ligature for لفظ الجلالة
 
-U+fdf2 ligature for اللفظ الجلالة causes problems regarding the initial alif, and also whether the shaddah should have an dagger alif or a fatha.
+U+fdf2 ligature for لفظ الجلالة causes problems regarding the initial alif, and also whether the shaddah should have an dagger alif or a fatha.
 
 If U+fdf2 is entered by the user then break it up into up into alif lam lam heh.
 
