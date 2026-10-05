@@ -14,7 +14,7 @@ Use classic لا ligature in initial, standalone, and final positions:
 
 * Make standalone hamza ء size smaller to match seated (combined) hamza ؤ أ ئ
 
-![hamza-size](images/hamza-size.jpeg)
+![hamza-size](images/hamza-size.jpg)
 
 * Add support for inline hamza, 
   * Implementation should match Amiri's so that typing ء between two joining letters will not break the joining.
