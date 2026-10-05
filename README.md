@@ -4,6 +4,10 @@ Zaheermatn is an Arabic font project forked from Vazirmatn.
 
 ## Design brief
 
+#### Font name
+
+Change fontname to Zaheermatn.
+
 #### Lam-alef ligature
 
 Use classic لا ligature in initial, standalone, and final positions:
