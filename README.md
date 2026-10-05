@@ -54,6 +54,12 @@ Also, don't raise first tooth to make it higher than the following ones in initi
 
 ![س](images/seen.jpeg)
 
+![س](images/seenteeth.png)
+يستغيثوا
+
+![س](images/sayaj3alu.png)
+سيجعل
+
 
 #### Add honorifics
 
